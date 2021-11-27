@@ -1,0 +1,6 @@
+.back-img{
+    background-image: url(/src/images/bg.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
